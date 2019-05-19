@@ -1,0 +1,37 @@
+[
+  {
+    "empresa": "Instituto de Ensino Superior de Brasília (IESB)",
+    "cargo": "Analista de Sistemas Jr.",
+    "periodo": "mai 2017/atualmente",
+    "descricao": "Inovação, integrações, criação e suporte de sistemas Web e de terceiros (Fluig e Blackboard).",
+    "ferramentas": "PHP, Codeigniter, Javascript, AdonisJS, REST, Blackboard, SQL Server, Microsoft SSIS, HTML, CSS, Kooboo, Fluig."
+  },
+  {
+    "empresa": "Campanha Nacional das Escolas da Comunidade (CNEC)",
+    "cargo": "Analista de Desenvolvimento",
+    "periodo": "dez 2014/nov 2015",
+    "descricao": "Desenvolvimento e suporte de aplicações para web da empresa.",
+    "ferramentas": "HTML, CSS, Bootstrap, Javascript, JQuery, Jquery­ UI, PHP, MySQL, SQL Server, WordPress."
+  },
+  {
+    "empresa": "Freelancer",
+    "cargo": "Programador",
+    "periodo": "jun/ago 2014",
+    "descricao": "Criação de site para clínica médica.",
+    "ferramentas": "HTML, CSS, Bootstrap, Javascript, JQuery, PHP, MySQL."
+  },
+  {
+    "empresa": "RCA Assessoria Digital LTDA",
+    "cargo": "Operador de Computador II",
+    "periodo": "mar/mai 2014",
+    "descricao": "Coordenação de equipe para atendimento a demandas de e­mail marketing, manutenção e suporte aos clientes.",
+    "ferramentas": "HTML, CSS, Javascript, Adobe Photoshop, Microsoft Sharepoint."
+  },
+  {
+    "empresa": "RCA Assessoria Digital LTDA",
+    "cargo": "Estagiário voluntário",
+    "periodo": "dez 2013/mar 2014",
+    "descricao": "Atendimento à demandas de criação de e­mail marketing, desenvolvimento de páginas, manutenção e suporte aos cliente.",
+    "ferramentas": "HTML, CSS, Javascript, Adobe Photoshop, Microsoft Sharepoint."
+  }
+]

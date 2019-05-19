@@ -1,0 +1,23 @@
+[
+  { "nome": "Javascript", "nivel": 4.5 },
+  { "nome": "ReactJS", "nivel": 4 },
+  { "nome": "React Native", "nivel": 1 },
+  { "nome": "NodeJS", "nivel": 3.5 },
+  { "nome": "ExpressJS", "nivel": 3.5 },
+  { "nome": "AdonisJS", "nivel": 3 },
+  { "nome": "VueJS", "nivel": 2.5 },
+  { "nome": "AngularJS", "nivel": 2 },
+  { "nome": "Docker", "nivel": 3 },
+  { "nome": "Html", "nivel": 4 },
+  { "nome": "CSS", "nivel": 2.5 },
+  { "nome": "PHP", "nivel": 4.5 },
+  { "nome": "Codeigniter", "nivel": 4 },
+  { "nome": "Laravel", "nivel": 3 },
+  { "nome": "MySQL", "nivel": 3.5 },
+  { "nome": "Postgres", "nivel": 2.5 },
+  { "nome": "SQL Server", "nivel": 4 },
+  { "nome": "Microsoft SSIS", "nivel": 2.5 },
+  { "nome": "Linux", "nivel": 4 },
+  { "nome": "Inglês", "nivel": 4 },
+  { "nome": "TOTVS Fluig", "nivel": 2.5 }
+]

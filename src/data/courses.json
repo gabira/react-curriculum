@@ -1,0 +1,31 @@
+[
+  {
+    "nome": "GoStack (NodeJs, ReactJs, ReactNative)",
+    "empresa": "Rocketseat",
+    "periodo": "2019"
+  },
+  {
+    "nome": "Nanodegree - Front End Web Developer",
+    "empresa": "Udacity",
+    "periodo": "2018"
+  },
+
+  {
+    "nome": "Build LUIS Powered Chatbot in NodeJS and Azure Bot Service",
+    "empresa": "Udemy",
+    "periodo": "2018"
+  },
+  { "nome": "NodeJS Completo", "empresa": "Treinaweb", "periodo": "2018" },
+  {
+    "nome": "Docker: Ferramenta essencial para Desenvolvedores",
+    "empresa": "Udemy",
+    "periodo": "2017"
+  },
+  {
+    "nome": "PhoneGap - Apache Cordova Mobile Framework",
+    "empresa": "Treinaweb",
+    "periodo": "2017"
+  },
+  { "nome": "Java Básico", "empresa": "Treinaweb", "periodo": "2016" },
+  { "nome": "C# Básico", "empresa": "Treinaweb", "periodo": "2015" }
+]
